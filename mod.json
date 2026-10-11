@@ -1,0 +1,18 @@
+{
+	"geode": "5.8.0",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "tuff.tuffmenu",
+	"name": "TuffMenu",
+	"version": "v1.0.0",
+	"developer": "Tuff",
+	"description": "A dark & blue hack menu: noclip, speedhack, auto clicker, jump hack, hitboxes, cosmetics, labels and more.",
+	"tags": ["gameplay", "interface", "utility"],
+	"resources": {
+		"spritesheets": {}
+	}
+}
